@@ -20,7 +20,7 @@ header {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  font-size: 20px;
+  font-size: 18px;
   width: 50%;
   margin-left: 360px;
 }
@@ -35,8 +35,8 @@ header {
 
 .btn-donation {
   color: #fff;
-  font-size: 20px;
-  padding: 24px 32px;
+  font-size: 18px;
+  padding: 20px 28px;
   background-color: #C98474;
   border: none;
   border-radius: 15px;
